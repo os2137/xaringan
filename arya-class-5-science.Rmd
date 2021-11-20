@@ -156,3 +156,5 @@ class: inverse, center, middle
 of our bodies. Vitamins and minterals protect us from illness. 
 
 - Roughage and water are important parts of a balanced diet. 
+
+- We must cook and preserve food
