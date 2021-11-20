@@ -1,0 +1,30 @@
+---
+title: "ten-step-workflow"
+author: "Onkar Singh"
+date: "11/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(xaringan)
+library(usethis)
+```
+
+[Ten Step Workflow](https://rviews.rstudio.com/2021/11/18/deploying-xaringan-slides-a-ten-step-github-pages-workflow/#initialize-version-control-with-git)
+
+
+
+2. Create a xaringan deck using a xaringan template:
+
+File > New File > R Markdown > From Template > Ninja Presentation > OK
+
+3. Delete what you don’t need and save your R Markdown file with whatever name you like. If you pick index.Rmd the live link you share at the end will be relatively short.
+
+
+
+
