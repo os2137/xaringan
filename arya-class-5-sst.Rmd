@@ -68,4 +68,7 @@ class: inverse, center, middle
 ---
 
 
+```{r}
+# usethis::use_github_pages(branch = "main")
+```
 

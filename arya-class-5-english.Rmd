@@ -1,0 +1,49 @@
+---
+title: "arya-class-5-english"
+subtitle: "Arya Singh"
+author: "Onkar Singh"
+institute: "Shri Ram Global School"
+date: "2021/11/20 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: inverse, center, middle
+# Gulmohar
+# Chapter 4: Five Children and It
+
+---
+
+
+
+---
+class: inverse, center, middle
+# Gulmohar
+# Poem: Roadside Locksmith
+
+---
+class: inverse, center, middle
+# Enjoying Grammar
+# Chapter 6: The Simple Present and The Present Continuous Tense
+
+---
+class: inverse, center, middle
+# Enjoying Grammar
+# Chapter 7: The Simple Past and The Past Continous Tenses
+
+---
+class: inverse, center, middle
+# Creative Writing
+
+---
+class: inverse, center, middle
+# Letter Writing
+
+---
+class: inverse, center, middle
+# Reading Comprehension
