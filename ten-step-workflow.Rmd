@@ -25,6 +25,8 @@ File > New File > R Markdown > From Template > Ninja Presentation > OK
 
 3. Delete what you don’t need and save your R Markdown file with whatever name you like. If you pick index.Rmd the live link you share at the end will be relatively short.
 
+4. 4. Render HTML slides from the open Rmd file using xaringan’s infinite moon reader:
 
+  xaringan::infinite_moon_reader()
 
 
