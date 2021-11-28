@@ -47,3 +47,63 @@ class: inverse, center, middle
 ---
 class: inverse, center, middle
 # Reading Comprehension
+
+---
+
+# Word Synonyms
+
+.pull-left[
+
+- abrupt = sudden, hastily, unexpected
+
+- adamant = studborn, inflexible
+
+- adhere = comply, observe
+
+- audacity = boldness, courage
+
+- captivity = imprisonment, confinement
+
+- decipher = interpret, reveal 
+
+- despair = hopelessness, anguish
+
+- disastrous = terrible, devastating
+
+- dwell = reside, inhabit, live
+
+- eccentric = strange, abnormal
+
+- eloquence = expression, fluency
+
+
+]
+
+.pull-right[
+
+
+- enlighten = disclose, illuminate
+
+- escalate = heighten, intensify
+
+- feeble = weak, frail
+
+- fragile = breakable, delicate
+
+- grudge = hatred, aversion
+
+- guile = cunning, deceit
+
+- haughty = arrogance, pompous
+
+- immaculate = clean, spotless
+
+- juvenile = young, tender
+
+- nimble = prompt, active
+
+- rectify = amend, remedy
+
+
+
+]

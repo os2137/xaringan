@@ -1,0 +1,35 @@
+---
+title: "arya-class-5-science"
+subtitle: "Arya Singh"
+author: "Onkar Singh"
+institute: "Shri Ram Global School"
+date: "2021/11/20 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: inverse, center, middle
+
+# Chapter 4: Styles and Objects in Word
+
+---
+class: inverse, center, middle
+
+# Chapter 5:  Tables in Word
+
+
+---
+class: inverse, center, middle
+
+# Chapter 6: MS PowerPoint 2010
+
+---
+class: inverse, center, middle
+
+# Chatper 7: Working on Objects in PowerPoint
+
