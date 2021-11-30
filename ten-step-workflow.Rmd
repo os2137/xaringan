@@ -32,7 +32,7 @@ xaringan::infinite_moon_reader()
 
 **9. When you're ready to deploy your slides, you can use the `usethis::use_github_pages()` function** which makes the process of deploying via GitHub Pages super easy. I recommend pointing `branch` to the name of your primary branch.
 
-    usethis::use_github_pages(branch = "master")
+    usethis::use_github_pages(branch = "master") # use main in place of master
 
 > Note: Your repository must be **public** for your deployed slides to be available publicly, unless you have a paid GitHub account.
 

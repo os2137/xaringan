@@ -54,7 +54,7 @@ class: inverse, center, middle
 
 .pull-left[
 
-- abrupt = sudden, hastily, unexpected
+- abrupt = sudden, hasty, unexpected
 
 - adamant = studborn, inflexible
 
@@ -66,6 +66,8 @@ class: inverse, center, middle
 
 - decipher = interpret, reveal 
 
+- deliberate = planned, intentional 
+
 - despair = hopelessness, anguish
 
 - disastrous = terrible, devastating
@@ -74,13 +76,15 @@ class: inverse, center, middle
 
 - eccentric = strange, abnormal
 
-- eloquence = expression, fluency
+
 
 
 ]
 
 .pull-right[
 
+
+- eloquence = expression, fluency 
 
 - enlighten = disclose, illuminate
 
@@ -104,6 +108,9 @@ class: inverse, center, middle
 
 - rectify = amend, remedy
 
+- savage = wild, untamed
+
+- startled = frightened, shocked
 
 
 ]
