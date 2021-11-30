@@ -72,10 +72,6 @@ class: inverse, center, middle
 
 - disastrous = terrible, devastating
 
-- dwell = reside, inhabit, live
-
-- eccentric = strange, abnormal
-
 
 
 
@@ -83,6 +79,9 @@ class: inverse, center, middle
 
 .pull-right[
 
+- dwell = reside, inhabit, live
+
+- eccentric = strange, abnormal
 
 - eloquence = expression, fluency 
 
@@ -102,6 +101,15 @@ class: inverse, center, middle
 
 - immaculate = clean, spotless
 
+]
+
+---
+# Word Synonyms Contd
+
+.pull-left[
+
+
+
 - juvenile = young, tender
 
 - nimble = prompt, active
@@ -111,6 +119,17 @@ class: inverse, center, middle
 - savage = wild, untamed
 
 - startled = frightened, shocked
+
+
+
+
+
+]
+
+.pull-right[
+
+
+
 
 
 ]
