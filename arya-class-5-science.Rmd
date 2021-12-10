@@ -193,6 +193,81 @@ class: inverse, center, middle
 ---
 # To Sum Up
 
+- The nervous system controls all the organs in our body. 
+
+- It is made of the brain, the spinal cord and the nerves. 
+
+- The brain is made up of the cerebrus, the cerebellum and the medulla. 
+
+- Nerves carry messages to an from the brain and spinal cord. 
+
+- There are three types of nerves - sensory, motor and mixed. 
+
+- Reflex actions are automatic reactions of our body. The breain is not involved. 
+
+- Our sense organs supply us with information about our surroundings. 
+
+
+---
+
+# Test Your Learning
+
+## A. Choose the correct answer 
+
+1. The part of the brain that is responsible for learning is the (a. cerebrum). 
+
+2. Information is carried to the brain by ( ). 
+
+3. In reflex actions, the ( ) has/have no role. 
+
+4. In dim light, the size of the pupil (  ). 
+
+5. Images of objects are formed on the (  ). 
+
+## B. Fill in the blanks
+
+1. The brain is protected by ( ), while the spinal coord is protected by the ( ). 
+
+2. The ( ) carry messages to the muscles. 
+
+3. Reflex actions are controlled by the  ( ). 
+
+---
+## Contd...
+
+4. The ( ) helps to maintain the balance of the body. 
+
+5. The tongue has ( ) that can sense different tastes. 
+
+## Name the following
+
+1. The largest part of the brain : ( ) 
+
+2. The other name of a nerve cell : ( )
+
+3. The nerves that carry messages from the sense organs to the brain and also from the brain to 
+the sense organs: ( )
+
+4. The thin structure that moves up and down in the ear: ( )
+
+5. The largest sense organ in the body: ( )
+
+
+---
+
+## D. Answer the following questions
+
+1. Name the three organs of the nerves system that control informaiton. 
+
+3. What are parts of the brain? Explain their functions. 
+
+4. Explain the difference between sensory and motor serves. 
+
+5. Explain reflex action with an example. 
+
+6. Draw a neat, labelled diagram of the eye. 
+
+
 ---
 class: inverse, center, middle
 
@@ -293,6 +368,7 @@ Soil  can be conserved by the following methods
 - Terrace farming : It is practised on the slopes of the mountain. Fields are cut into the sides of mountains to look like step. These steps slow the flow of water down the slope, preventing soil erosion. 
 
 - Growing shelter belts: Bushy plants are grown along the edges of fields to stop the wind from blowing away the soil. 
+
 ---
 class: inverse, center, middle
 
