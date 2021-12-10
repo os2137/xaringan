@@ -199,8 +199,100 @@ class: inverse, center, middle
 # Chapter 8: Soil and Its Importance
 
 ---
-To Sum UP
+## To Sum UP
 
+- Soil is an important natural resource. 
+
+- It is formed by the weathering of rocks over a long period of time. 
+
+- Soil is very important to both plants and animals. 
+
+- Sand, clay and loam are the basi types of soil found in nature. 
+
+- The soil in any area has three layers: topsoil, subsoil and bedrock or parent rock. 
+
+- Soil erosion takes place when the topsoil is washed away due to natural and human factors. 
+
+- We must conserve soil by using methods like afforestation, terrace farming, contour ploughing and planting shelter belts. 
+
+
+---
+
+## Test Your Learning
+
+1. Weathering of rocks is _____________
+
+a. the breaking up of rocks into smaller pieces. 
+
+2. The part of the soil that is made of decayed plant and animal material is 
+
+d. humus
+
+3. The type of soil that holds a large amount of water is 
+
+b. loam
+
+4. An activity that leads to soil erosion is 
+
+b. cutting trees
+
+5. Which of the following will stop soil erosion
+
+b. planting more trees and plants
+
+
+---
+## Answer the following questions
+
+1. List the things that social contains.
+
+Answer: Soil contains the following things
+        - rocks and minerals
+        - dead and broken plants and  animals (make soil fertile. 
+          This material is called ***humus***)
+        - water and air
+        - small worms and insects
+        - small organisms like bacteria
+        
+
+2. Why is loamy soil used for growing plants? 
+
+Loamy soil is made of sand, silt and clay. Since it holds water and nutrients better than sandy social and drains better than calyey soil, it is often used for growing plans, gardening and agriculture. 
+
+
+---
+
+3. What are the layers of soil? Explain their properties with a diagram
+
+There are there layers of soil
+
+- Topsoil : It is the topmost layer of soil and has sand and clay. It is rich in humus. It has many nutrients and holds water. It also contains air. 
+
+- Subsoil: this layer contains pieces of rock and is less humus. It has less water and air than top soil. 
+
+- Bedrock : This layer (also called **parent rock**) is mainly made up of large pieces of rock. Bedrock suppors the upper layers of the soil. 
+
+
+---
+
+4. How have humans increased soil erosion? 
+
+Human have increase social erosion by deforestation i.e. cutting down trees, overgrazing by cattle and ploughing of farmlands. 
+
+
+5. How can soil be conserved
+
+Soil  can be conserved by the following methods
+
+- Afforestation i.e. by planting more trees. 
+
+- Using soil cover by growing grass or covering the land by dry grass.
+
+- Contour ploughing: It is a method of ploughing that follows the curves of the land. This slows the water flowing down and stops the soil from being washed away. 
+
+- Terrace farming : It is practised on the slopes of the mountain. Fields are cut into the sides of mountains to look like step. These steps slow the flow of water down the slope, preventing soil erosion. 
+
+- Growing shelter belts: Bushy plants are grown along the edges of fields to stop the wind from blowing away the soil. 
 ---
 class: inverse, center, middle
 
@@ -211,6 +303,44 @@ class: inverse, center, middle
 
 ---
 # To Sum Up
+- The moon is the earth's only natural satellite. 
+
+- The moon's surface is rocky and is covered with crates and mountains. 
+
+- It is either very cold or very hot on the moon. There is no atmosphere on the moon. 
+
+- The moon's gravity is only one sixth of that of the earth. 
+
+- During its revolution around the earth the moon appears to change shape. These changes are called 
+phases of moon. 
+
+- Eclipses are caused when the light from the sun is blocked by either the earth or the moon. 
+
+- A solar eclipse occurs when the moon comes between the earth and the sun. 
+
+- A lunar eclipse occurs when the earth comes between the moon the the sun. 
+
+- Satellites are natural or artificial bodies that revolve around the planets. Artificial satellites have been put in the orbit by people for various purposes - communication, remote sensing, weather 
+
+---
+
+forecasting, education and so on. 
+
+
+## Answer the following questions
+
+1. Describe the surface of the Moon. 
+
+2. Why is life not possible on the Moon? 
+
+3. What do you understand by the phases of the Moon? 
+
+4. Describe with a neat diagram how a solar eclipse occurs. 
+
+5. What are the uses of artificial satellites? 
+
+
+
 
 
 
