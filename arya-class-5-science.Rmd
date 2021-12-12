@@ -22,8 +22,8 @@ class: inverse, center, middle
 # To Sum Up
 
 - Animal that live in a particular habitat share common adaptations. 
-- Body covering like fur, feather, scales and shells prorect animal. 
-- Noses, blowholds, lungs, gills and spiracles are some of the breathing organs found in animals. 
+- Body covering like fur, feather, scales and shells protect animal. 
+- Noses, blowholes, lungs, gills and spiracles are some of the breathing organs found in animals. 
 - Animals move using legs, muscles, scales, webbed feet, fins, slippers or wings. 
 - Animals travel long distance for warmth and food and to have young ones. 
 - Animals have different body parts suited to their feeding habits. 
@@ -83,7 +83,7 @@ class: inverse, center, middle
       
       c. siberian crane
       
-      d. wild beast
+      d. **wildebeest**
 
 
 ---
@@ -131,15 +131,43 @@ D. Answer the following questions.
 
   1. What are the types of body coverings that animals have? Give an example of each type. 
   
+  The animals have following types of body coverings
+  
+  - Fur or hai: Animals that live in cold places have fur or hair that help them to keep warm. e.g. 
+  sheep, yak and mountain goats are mountain animals that have thick fur. The polar bear and Arctic fox, which live in the Arctic region, also have thick fur. 
+  
+  - Feathers: The feathers of birds help them fly and also protect them against the dust and cold. 
+  
+  - Scales: Animals like fish and snakes have scals on their skin to protect themselves. 
+  
+  - Shell: Animals such as snails, tortoises and turtles have a hard outer shell to protect their soft bodies. 
+  
+  
+  
   2. List two reasons why animals migrate? 
+  
+  Animals migrate for food and water, they also migrate to go to warmer places to escape winter. 
+  
+---
   
   3. Explain the following terms: a. habitat b. spiracle
   
+  Habitat: The natural surroundings in which an animal lives comfortably is known as its habitat. 
+  
+  Spiracle: Spiracles are Small holes on the bodies of insect through which they breathe. 
+  
+  
   4. Difference between herbivores, carnivores and omnivores.
+  
+  Herbivores: Animals that eat only plants and plant products are called herbivores. e.g. Cow, deer, zebra
+  
+  Carnivores: Meat eating animals are called carnivores e.g. tiger and wolf, eagle, owl
+  
+  Omnivores: Animals that each both plant/plant products and meat  are called omnivores. e.g. human beings, bears, crows
   
   5. Describe the type of teeth in herbivores. 
                                                                                              
-
+Herbivores have sharp front teeth and broad back teetch to cut and chew grass. Examples are the cow, deer and zebra. 
 
 ---
 
@@ -184,7 +212,18 @@ _ Lack of nutrients in the diet causes deficiency diseases.
 
 # C. Answer the following questions
 
+What are the types of nutrients present in food? Give two examples of food rich in each type of nutrient. 
 
+Different types of nutrients present in food are-
+
+carbohydrates- They provide energy 
+Eg:Rice,wheat
+
+Proteins-they help the body to grow and repair worn out tissues. Egdairy
+
+Fats-to stor energy. Eg- ghee
+
+Vitamins and minerals
 ---
 class: inverse, center, middle
 
@@ -197,7 +236,7 @@ class: inverse, center, middle
 
 - It is made of the brain, the spinal cord and the nerves. 
 
-- The brain is made up of the cerebrus, the cerebellum and the medulla. 
+- The brain is made up of the cerebrum, the cerebellum and the medulla. 
 
 - Nerves carry messages to an from the brain and spinal cord. 
 
@@ -216,57 +255,80 @@ class: inverse, center, middle
 
 1. The part of the brain that is responsible for learning is the (a. cerebrum). 
 
-2. Information is carried to the brain by ( ). 
+2. Information is carried to the brain by (c. sensory organ). 
 
-3. In reflex actions, the ( ) has/have no role. 
+3. In reflex actions, the (a. brain ) has/have no role. 
 
-4. In dim light, the size of the pupil (  ). 
+4. In dim light, the size of the pupil ( c. decreases ). 
 
-5. Images of objects are formed on the (  ). 
+5. Images of objects are formed on the ( c. retina ). 
 
 ## B. Fill in the blanks
 
-1. The brain is protected by ( ), while the spinal coord is protected by the ( ). 
+1. The brain is protected by (the bones of the skull), while the spinal coord is protected by the (vertebral column ). 
 
-2. The ( ) carry messages to the muscles. 
+2. The ( motor nerves ) carry messages to the muscles. 
 
-3. Reflex actions are controlled by the  ( ). 
+3. Reflex actions are controlled by the  (spinal cord ). 
 
 ---
 ## Contd...
 
-4. The ( ) helps to maintain the balance of the body. 
+4. The (cerebellum ) helps to maintain the balance of the body. 
 
-5. The tongue has ( ) that can sense different tastes. 
+5. The tongue has (taste buds ) that can sense different tastes. 
 
 ## Name the following
 
-1. The largest part of the brain : ( ) 
+1. The largest part of the brain : (cerebrum ) 
 
-2. The other name of a nerve cell : ( )
+2. The other name of a nerve cell : (neurons )
 
 3. The nerves that carry messages from the sense organs to the brain and also from the brain to 
-the sense organs: ( )
+the sense organs: (sensory nerves)
 
-4. The thin structure that moves up and down in the ear: ( )
+4. The thin structure that moves up and down in the ear: (eardrum)
 
-5. The largest sense organ in the body: ( )
+5. The largest sense organ in the body: (skin)
 
 
 ---
 
 ## D. Answer the following questions
 
-1. Name the three organs of the nerves system that control informaiton. 
+1. Name the three organs of the nerves system that control information. 
+
+
+        i. Sensory Nerves
+        
+        ii. Motor Nerves
+        
+        iii. Mixed Nerves
+
+
 
 3. What are parts of the brain? Explain their functions. 
 
+The parts of the brains are 
+
+    i. The Cerebrum: It is the thinking part and controls voluntary movement, learning, intelligence and memory. It also helps us to understand the signals that we get from the sense organs. 
+  
+    ii. The Cerebellum: It is in charge of movement and helps to maintain the balance of the body. 
+  
+    iii. The Medulla: It controls the heartbeat, breathing, blood circulation, digestion and other involuntary actions like sneezing, swallowing and so on. 
+
 4. Explain the difference between sensory and motor serves. 
+
+Sensory Nerves: These nerves carry messages from the muscles and sense organs to the brain or spinal cord. The brain undestands what the organ has seen, heard, felt, smelt or tasted. 
+
+Motor Nerves: These nerves carry messages from the brian or the spinal cord to the muscles. The brain instructs the muscles on how to act. For example, if your hands are cold, the brain sends a message that makes you put your hands in your pocket. 
 
 5. Explain reflex action with an example. 
 
-6. Draw a neat, labelled diagram of the eye. 
+When we accidentally touch something hot, we automatically draw our hand back. such actions that we perform without thinking are examples of relex actions. 
 
+
+6. Draw a neat, labelled diagram of the eye. 
 
 ---
 class: inverse, center, middle
@@ -345,7 +407,7 @@ There are there layers of soil
 
 - Subsoil: this layer contains pieces of rock and is less humus. It has less water and air than top soil. 
 
-- Bedrock : This layer (also called **parent rock**) is mainly made up of large pieces of rock. Bedrock suppors the upper layers of the soil. 
+- Bedrock : This layer (also called **parent rock**) is mainly made up of large pieces of rock. Bedrock supports the upper layers of the soil. 
 
 
 ---
@@ -407,14 +469,25 @@ forecasting, education and so on.
 
 1. Describe the surface of the Moon. 
 
+The surface of the moon is rocky and is covered with craters and mountains. 
+
 2. Why is life not possible on the Moon? 
+
+The life is not possible on the moon because it has no atomosphere. It is very hot during the day and very cold at night. 
+
 
 3. What do you understand by the phases of the Moon? 
 
+During its revolution around the Earth, the Moon appears to change shape. The changes are called the phases of the Moon. 
+
 4. Describe with a neat diagram how a solar eclipse occurs. 
+
+During its revolution around the Earth, the Moon comes between the Earth and the Sun. When the three objects are in a straight line, the shadow of the Moon falls on the Earth and prevents us from seeing the Sun. This is called solar eclipse. This occurs on  a New Moon day. 
+
 
 5. What are the uses of artificial satellites? 
 
+Satellites are used for the purpose of communication, remote sensing, weather forecasting, education and so on. 
 
 
 
