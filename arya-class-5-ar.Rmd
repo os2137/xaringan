@@ -28,55 +28,48 @@ style_duo(
 
 
 
----
-
-class: inverse, center, middle
-
-# Chapter 4: Styles and Objects in Word
-
----
-class: inverse, center, middle
-
-# Chapter 5:  Tables in Word
 
 
 ---
 class: inverse, center, middle
-
-# Chapter 6: MS PowerPoint 2010
-
----
-class: inverse, center, middle
-
-# Chatper 7: Working on Objects in PowerPoint
-
----
-class: inverse, center, middle
-Final Exam on 15th March 2022 (Tuesday)
+Final Exam on 25th March(Friday)
 
 9am to 1030am 
 
 693 172 0881
 
-Ms. Lipi George
-lipi@srgsomr.org
+Ms. Nidhi Agrawal
+nidhi.a@srgsomr.org
 
-Digital Cruise
-
----
-class: inverse, center, middle
-# Chapter 6: MS PowerPoint 2010
+School Textbook
 
 ---
 class: inverse, center, middle
-# Chapter 8:  MS Excel 2010
+# Chapter 2: Analogy
 
 ---
 class: inverse, center, middle
-# Chapter 9: Algorithms and Flowcharts
+# Chapter 3:  Classification
 
 ---
 class: inverse, center, middle
-# Chapter 10: Scratch
+# Chapter 4: Logical Sequence of Words
 
--
+---
+class: inverse, center, middle
+# Chapter 5: Mathematical Operations
+
+---
+class: inverse, center, middle
+# Chapter 6: Logical Venn Diagrams
+
+
+---
+class: inverse, center, middle
+# Chapter 7: Blood Relation
+
+
+
+
+
+

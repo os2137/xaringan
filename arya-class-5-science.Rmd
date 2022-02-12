@@ -6,19 +6,58 @@ institute: "Shri Ram Global School"
 date: "2021/11/20 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
+    css: xaringan-themer.css
     lib_dir: libs
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
 ---
-
 class: inverse, center, middle
+```{r include = FALSE}
+# https://pkg.garrickadenbuie.com/xaringanthemer/articles/xaringanthemer.html
+# install.packages("remotes")
+# remotes::install_github("gadenbuie/xaringanthemer")
+library(xaringanthemer)
+
+
+
+style_duo(primary_color = "#1F4257", secondary_color = "#F97B64", 
+        header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")  )
+
+```
+
+
 
 # Chapter 2: Animal Adaptations
 
 ---
+# Matching ggplot Themes
 
+xaringanthemer even provides a [ggplot2] theme with theme_xaringan() that uses the colors and fonts from your slide theme. Built on the showtext package, and designed to work seamlessly with Google Fonts.
+
+Color and fill scales are also provided for matching sequential color scales based on the primary color used in your slides. See ?scale_xaringan for more details.
+
+More details and examples can be found in vignette("ggplot2-themes").
+
+---
+```{r , echo=FALSE}
+library(ggplot2)
+ggplot(diamonds) +
+  aes(cut, fill = cut) +
+  geom_bar(show.legend = FALSE) +
+  labs(
+    x = "Cut",
+    y = "Count",
+    title = "A Fancy diamonds Plot"
+  ) +
+  theme_xaringan(background_color = "#FFFFFF") +
+  scale_xaringan_fill_discrete()
+```
+
+---
 # To Sum Up
 
 - Animal that live in a particular habitat share common adaptations. 
@@ -480,6 +519,172 @@ Soil  can be conserved by the following methods
 
 ---
 class: inverse, center, middle
+# Chapter 11: Nature Links
+---
+## To sum up
+- The biosphere is the part of the Earth where there are living things. 
+
+- The ecosystem is made up of group of interacting organisms and their environments. 
+
+- An ecosystem has a biotic and abiotic compoments. 
+
+- Food chains link plants and animals according to their feeding habits. 
+
+- A food chain can be used to trace the flow of energy. 
+
+- Producers provide energy to all living things directly or indirectly. 
+
+- Consumers do not make their own food. 
+
+- All dead plants and animals matter is broken down by decomposers. 
+
+- Two or more food chains link together form a food web. 
+
+---
+## Choose the correct answer
+
+1. Which of the following does/do not depend on air? 
+
+a. plants __b. sunlight__ c. animals d. bacteria
+
+2. Identify the group that contains a producer, a consumer and a decomposer
+
+a. grass, rabbit, eagle 
+b. papaya plant, caterpillar, bird 
+c. sugarcane, lizard, fungus 
+d. grain, rat, snake
+
+3. Which of the followings eats both plants and animals
+
+a. rabbit  b. bear  c. eagle  d. deer
+
+---
+class: inverse, center, middle
+# Chatper 12: Natural Disasters
+
+---
+## To Sum Up
+
+- Natural disasters are natural events that cause great damage to life and property. Examples are earthquakes, tsunami, cyclones, floods and droughts. 
+
+- Earthquakes are caused by the sudden movement of plates in the Earth's crust. 
+
+- Tsunamis are caused by earthquakes or volcanic eruptions under the sea. 
+
+- Heavy rains and melting snow cause water from water bodies overflow into nearby land, causing floods. 
+
+- Droughts occur when a region does not get enough rainfall for a long time. 
+
+- The government and each of us should take steps during and after a diaster to lessen its impact. 
+
+---
+## A. Choose the correct answer
+
+1. The Earth's crust is made of many pieces called .......
+
+     **a. plates**
+     
+     b. faults 
+     
+     c. aftershocks 
+     
+     d. tsunamis
+
+2. Which of the followings cannot  be caused by an earthquake? 
+
+    a. landslide 
+    
+    b. tsunami 
+    
+    c. cyclone 
+    
+    d. flood
+
+
+  
+---
+
+3. Which of the following is not a name for a storm? 
+
+  a. hurricane
+  
+  b. typhoon
+  
+  c. cyclone
+  
+  d. tsunami
+  
+4. __________ are built to prevent floods
+
+  a. bunds
+  
+  b. banks
+  
+  c. shores
+  
+  d. bridges
+  
+5. Which of these should the government do before a disaster? 
+
+a. provide first aid
+
+b. rescue people
+
+c. provide emergency food 
+
+__d. build evacuation centers__
+
+---
+## B. Fill in the blanks
+
+    1. The shaking of the Earth after the main earthquake leads to _________
+    
+    2. A ______ is a result of an earthquake at sea. 
+    
+    3. In a cyclone, the winds blow around a quiet area called the ______________
+    
+    4. Floods cause the spread of _______ diseases.
+    
+    5. When a drought lasts for a long time, it can lead to a shortage of food called a __famine.__
+
+---
+## C. Name a safety measure that you must take if the folowing disaster occur. 
+
+      1. earthquake
+      
+      
+      2. tsunami
+      
+      
+      3. cyclone
+      
+      
+      4. floods
+
+---
+## D. Answer the following questions
+
+    1. How does an earthquake occur? 
+    
+    
+    
+    2. Describe how a tsunami is formed? 
+    
+    
+    
+    3. What are the effects of a cyclone? 
+    
+    
+    
+    4. How does water get contaminated during natural disasters? 
+    
+    
+    
+    5. How does a decrease in water harm living things? 
+
+
+---
+class: inverse, center, middle
 
 # Chapter 13: The Moon and Eclipses
 
@@ -531,7 +736,7 @@ During its revolution around the Earth, the Moon appears to change shape. The ch
 
 During its revolution around the Earth, the Moon comes between the Earth and the Sun. When the three objects are in a straight line, the shadow of the Moon falls on the Earth and prevents us from seeing the Sun. This is called solar eclipse. This occurs on  a New Moon day. 
 
-
+---
 5. What are the uses of artificial satellites? 
 
 Satellites are used for the purpose of communication, remote sensing, weather forecasting, education and so on. 
@@ -544,6 +749,36 @@ Satellites are used for the purpose of communication, remote sensing, weather fo
 ```
 
 
+---
+class: inverse, center, middle
+Final Exam on 11th March 2022 (Friday)
+
+9am to 1030am 
+
+655 348 5950
+
+Ms. Paroma
+paroma.s@srgsomr.org
+
+Excel in Science
+
+---
+class: inverse, center, middle
+# Chapter 4: Bones and Muscles
+
+---
+class: inverse, center, middle
+# Chapter 6:  Safety and First Aid
+
+---
+class: inverse, center, middle
+# Chapter 10: Our Environment
+
+---
+class: inverse, center, middle
+# Chapter 11: Nature Links
 
 
-
+---
+class: inverse, center, middle
+# Chapter 15: Measurement: Speed and Density

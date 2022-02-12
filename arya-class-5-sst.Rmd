@@ -14,6 +14,18 @@ output:
 ---
 class: inverse, center, middle
 
+```{r , echo=FALSE}
+library(xaringanthemer)
+
+style_duo(
+  primary_color = "#1F4257",
+  secondary_color = "#F97B64",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
 # Window to the World
 
 ---
@@ -242,4 +254,43 @@ The aims of the UN are
 ```{r}
 # usethis::use_github_pages(branch = "main")
 ```
+
+
+---
+class: inverse, center, middle
+Final Exam on 21st  March 2022 (Monday)
+
+9am to 1030am 
+
+370 572 3003
+
+Ms. Lopamudra
+lopa@srgsomr.org
+
+Window on the World
+
+---
+class: inverse, center, middle
+# Unit 1
+# Chapter 5:The Hot Desert Region
+
+---
+class: inverse, center, middle
+# Unit 1
+# Chapter 6:  The Temperate Grassland Region
+
+---
+class: inverse, center, middle
+# Unit 2
+# Chapter 8: Our Government
+
+---
+class: inverse, center, middle
+# Unit 2
+# Chapter 9: Our Culture and Heritage
+
+---
+class: inverse, center, middle
+# Unit 3
+# Chapter 11: The Struggle for Independence
 

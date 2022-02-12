@@ -95,5 +95,38 @@ class: inverse, center, middle
 # Chapter 8: Geometry
 
 
+---
+class: inverse, center, middle
+Final Exam on 23rd March
+
+9am to 1030am 
+
+693 172 0881
+
+Ms. Nidhi Agrawal
+nidhi.a@srgsomr.org
+
+New Maths Time
+
+---
+class: inverse, center, middle
+Chapter 6: Decimal Numbers
+
+---
+class: inverse, center, middle
+Chapter 8:  Geometry
+
+---
+class: inverse, center, middle
+Chapter 9: Measurements
+
+---
+class: inverse, center, middle
+Chapter 10: Perimeter, Area and Volume
+---
+class: inverse, center, middle
+Chapter 13: Graphs
+
+
 
 

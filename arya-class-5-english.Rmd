@@ -12,8 +12,18 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
-
 class: inverse, center, middle
+```{r , echo=FALSE}
+library(xaringanthemer)
+
+style_duo(
+  primary_color = "#1F4257",
+  secondary_color = "#F97B64",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
 # Gulmohar
 # Chapter 4: Five Children and It
 
@@ -289,6 +299,67 @@ The Simple Past and the Past Continuous Tenses
 
 
 
+---
+class: inverse, center, middle
+Final Exam on 17th March
+
+9am to 1030am 
+
+390 148 2471
+
+Ms. Neha
+
+neha@srgsomr.org
+
+Gulmohar
+
+Enjoying Grammar
+
+Creative Writing
+
+---
+class: inverse, center, middle
+# Gulmohar
+# Chapter 7: The Thief is Caught
+
+---
+class: inverse, center, middle
+# Gulmohar
+# Chapter 11:  The Piper of Manas
+---
+class: inverse, center, middle
+# Gulmohar
+# Poem Old Mister Laughter
+
+---
+class: inverse, center, middle
+# Enjoying Grammar
+# Chapter 15: Subject Verb Agreement
+
+---
+class: inverse, center, middle
+# Enjoying Grammar
+# Chapter 16: Phrases and Clauses
+
+---
+class: inverse, center, middle
+# Enjoying Grammar
+# Chapter 23: Active Passive Voice
 
 
+---
+class: inverse, center, middle
+# Enjoying Grammar
+# Chapter 24: Direct and Indirect Speech
 
+
+---
+class: inverse, center, middle
+# Creative Writing
+# Notice Writing
+
+
+---
+class: inverse, center, middle
+# Creative Writing
+# Comprehension
